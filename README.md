@@ -1,4 +1,4 @@
-# implementasi-barcode-qr-scanner-python-pendataan-barang-
+# barcode-qr-scanner-python-program-pendataan-barang-
 Program Pendataan Barang Python Menggunakan Barcode&amp;QR scanner 
 
 Notes :
